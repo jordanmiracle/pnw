@@ -48,5 +48,5 @@ sqlparse==0.4.3
 static3==0.7.0
 toml==0.10.2
 tomli==2.0.1
-urllib3==1.26.13
+urllib3==1.26.19
 whitenoise==6.2.0
