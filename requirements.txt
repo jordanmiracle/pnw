@@ -50,3 +50,4 @@ toml==0.10.2
 tomli==2.0.1
 urllib3==1.26.13
 whitenoise==6.2.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
