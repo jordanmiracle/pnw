@@ -10,7 +10,7 @@ cssselect==1.2.0
 databases==0.6.2
 dj-database-url==1.0.0
 dj-static==0.0.6
-Django==4.1.4
+Django==4.2.15
 django-appconf==1.0.5
 django-ckeditor==6.5.1
 django-compressor==4.1
